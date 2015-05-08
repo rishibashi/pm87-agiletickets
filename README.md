@@ -1,6 +1,8 @@
 Agile Tickets
 =============
 
+Desenvolvedor Principal: Ricardo Ishibashi
+
 Começando a desenvolver
 -----------------------
 
